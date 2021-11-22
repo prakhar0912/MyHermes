@@ -1,0 +1,10 @@
+displayName: SecurumExirePlugin
+
+type: middleware
+
+import: github.com/mayankkumar2/traefik-plugin-securum-exire
+
+summary: Plugin for securum exire
+
+testData:
+  url: ""
