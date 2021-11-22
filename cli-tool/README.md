@@ -1,6 +1,6 @@
-# exirectl
+#cli Tool
 
-- Securum exire control cli tool
+- control cli tool
 <br>
 USAGE:
 
